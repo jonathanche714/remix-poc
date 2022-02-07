@@ -1,0 +1,6 @@
+{
+  "root": "apps/cms",
+  "sourceRoot": "apps/cms",
+  "projectType": "application",
+  "tags": []
+}
