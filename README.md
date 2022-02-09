@@ -1,3 +1,15 @@
+# getting started
+
+Run `npx nx dev cms`
+Hit `localhost:3000`
+
+Login information is:
+username: hello
+password: 123
+
+Refer to the following resources: 
+https://remix.run/
+https://github.com/nrwl/nx-labs/tree/main/packages/remix
 
 
 # AdminCms
