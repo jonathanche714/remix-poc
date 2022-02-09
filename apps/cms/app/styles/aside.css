@@ -1,0 +1,17 @@
+.menu {
+  height: calc(100% - 60px);
+  background-color: #241239;
+  color: #fff;
+  height: calc(100% - 60px);
+  opacity: 1;
+  overflow-y: auto;
+  position: fixed;
+  top: 60px;
+  transform: none;
+  visibility: visible;
+  width: 250px;
+  z-index: 1;
+  transition-duration: 150ms;
+  transition-property: transform, opacity, visibility;
+  transition-timing-function: ease-in-out;
+}

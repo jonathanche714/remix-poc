@@ -90,11 +90,10 @@ input:where([type='search']) {
 }
 
 .container {
-  --gutter: 16px;
-  width: 1024px;
-  max-width: calc(100% - var(--gutter) * 2);
-  margin-right: auto;
+  width: calc(100% - 250px);
+  max-width: calc(100% - 250px);
   margin-left: auto;
+  margin-top: 65px;
 }
 
 .remix-app {
